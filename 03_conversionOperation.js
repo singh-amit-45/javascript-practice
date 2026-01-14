@@ -31,3 +31,9 @@ console.log( stringNumber);
 console.log(typeof stringNumber);
 
 
+//****************opertions*******************/
+
+
+let  value = 3
+let negValue = -value
+console.log(negValue);
