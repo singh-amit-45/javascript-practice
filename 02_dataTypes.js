@@ -4,24 +4,21 @@
 
 console.log(3
     +3) // code readability should be high
+    // console.log("amit")
+let name ="amit"
+let age =21
+let isLogedIn = false
+// number => 2 to power 53
+// bigint 
 
-    console.log("amit")
-
-    let name ="amit"
-    let age =21
-    let isLogedIn = false
-
-    // number => 2 to power 53
-    // bigint 
-
-    // string=>""
-    // bollean =>true/false
-    // null => standalone value
-    // undefined => value is not assigned
-    // symbol => unique
+// string=>""
+// bollean =>true/false
+// null => standalone value
+// undefined => value is not assigned
+// symbol => unique
     
     
-    // object 
+// object 
 
-    console.log(typeof null); // object
-    console.log(typeof undefined);// undefinded
+console.log(typeof null); // object
+console.log(typeof undefined);// undefinded
