@@ -23,7 +23,7 @@ const user = {
 // chai()
 
 // const chai = function () {
-//     let username = "hitesh"
+//     let username = "amit"
 //     console.log(this.username);
 // }
 
