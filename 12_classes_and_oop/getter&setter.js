@@ -22,3 +22,5 @@ class User {
 
 const hitesh = new User("amit@gamil.com.ai", "abc")
 console.log(amit.email);
+
+// last
